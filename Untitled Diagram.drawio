@@ -1,1 +1,231 @@
-<mxfile host="app.diagrams.net" modified="2022-05-09T19:57:24.685Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" version="18.0.2" etag="NZwbFbDz7EwkD35XavPu" type="github"><diagram id="CgBZZqJk36iDIYYSCeY7">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-09T21:38:29.926Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="cQjFGgAAWKMLSFkQa1rW" version="18.0.2" type="github">
+  <diagram id="CgBZZqJk36iDIYYSCeY7" name="Page-1">
+    <mxGraphModel dx="2651" dy="3383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <UserObject label="STŘEDISKA" lucidchartObjectId="JtwdTEM3P7._" id="j0kXErIfYLrjwPMrDjcV-20">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#6db1ff;strokeWidth=0.8;" vertex="1" parent="1">
+            <mxGeometry x="940" y="-1970" width="1335" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="MTZ - PNEU ZBOŽÍ&#xa;&#xa;ZBOŽÍ VE SKLADĚ" lucidchartObjectId="JtwdQS9GAcQ~" id="j0kXErIfYLrjwPMrDjcV-21">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#6db1ff;strokeWidth=0.8;" vertex="1" parent="1">
+            <mxGeometry x="940" y="-1870" width="255" height="195" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#3a414a;&quot;&gt;CNC NÁSTROJE&#xa;&lt;/span&gt;&lt;span style=&quot;font-size:11.7px;color:#3a414a;&quot;&gt;&#xa;VRTÁKY&#xa;INDEX. FREZY&#xa;KARBID. PLATKY&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="JtwdC60pC6Yu" id="j0kXErIfYLrjwPMrDjcV-22">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#6db1ff;strokeWidth=0.8;" vertex="1" parent="1">
+            <mxGeometry x="1210" y="-1870" width="255" height="195" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#3a414a;&quot;&gt;CNC MATERIÁL SUR&#xa;&#xa;&lt;/span&gt;&lt;span style=&quot;font-size:11.7px;color:#3a414a;&quot;&gt;TYČOVÝ MATERIÁL&#xa;MATERIÁL NA PLOŠINY&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="JtwdjphT8_iK" id="j0kXErIfYLrjwPMrDjcV-23">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#6db1ff;strokeWidth=0.8;" vertex="1" parent="1">
+            <mxGeometry x="1480" y="-1870" width="255" height="195" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="CNC VÝROBKY" lucidchartObjectId="JtwdPTH7~YH7" id="j0kXErIfYLrjwPMrDjcV-24">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#6db1ff;strokeWidth=0.8;" vertex="1" parent="1">
+            <mxGeometry x="1750" y="-1870" width="255" height="195" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="CNC VÝROBKY" lucidchartObjectId="JtwdCPl2XucP" id="j0kXErIfYLrjwPMrDjcV-25">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#6db1ff;strokeWidth=0.8;" vertex="1" parent="1">
+            <mxGeometry x="2020" y="-1870" width="255" height="195" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#3a414a;&quot;&gt;AUTO 1&#xa;&lt;/span&gt;&lt;span style=&quot;font-size:11.7px;color:#3a414a;&quot;&gt;DOTYKAČKA 1&#xa;&#xa;&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="JtwdidwI.K3z" id="j0kXErIfYLrjwPMrDjcV-26">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#6db1ff;strokeWidth=0.8;" vertex="1" parent="1">
+            <mxGeometry x="940" y="-1610" width="255" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#3a414a;&quot;&gt;AUTO 2&lt;/span&gt;&lt;span style=&quot;font-size:11.7px;color:#3a414a;&quot;&gt;&#xa;DOTYKAČKA 2&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="JtwdFwsQBcLq" id="j0kXErIfYLrjwPMrDjcV-27">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#6db1ff;strokeWidth=0.8;" vertex="1" parent="1">
+            <mxGeometry x="1210" y="-1610" width="255" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#3a414a;&quot;&gt;AUTO 3&lt;/span&gt;&lt;span style=&quot;font-size:11.7px;color:#3a414a;&quot;&gt;&#xa;DOTYKAČKA 3&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="Jtwd00CGW.VU" id="j0kXErIfYLrjwPMrDjcV-28">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#6db1ff;strokeWidth=0.8;" vertex="1" parent="1">
+            <mxGeometry x="1480" y="-1610" width="255" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#3a414a;&quot;&gt;AUTO 4&lt;/span&gt;&lt;span style=&quot;font-size:11.7px;color:#3a414a;&quot;&gt;&#xa;DOTYKAČKA 4&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="JtwdBA.rW.2H" id="j0kXErIfYLrjwPMrDjcV-29">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#6db1ff;strokeWidth=0.8;" vertex="1" parent="1">
+            <mxGeometry x="1750" y="-1610" width="255" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#3a414a;&quot;&gt;AUTO 5&lt;/span&gt;&lt;span style=&quot;font-size:11.7px;color:#3a414a;&quot;&gt;&#xa;DOTYKAČKA 5&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="JtwdIF_GFw2b" id="j0kXErIfYLrjwPMrDjcV-30">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#6db1ff;strokeWidth=0.8;" vertex="1" parent="1">
+            <mxGeometry x="2020" y="-1610" width="255" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="JtwdesKhk5jS" id="j0kXErIfYLrjwPMrDjcV-31">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1.002;exitPerimeter=0;entryX=0.5;entryY=-0.008;entryPerimeter=0;" edge="1" parent="1" source="j0kXErIfYLrjwPMrDjcV-21" target="j0kXErIfYLrjwPMrDjcV-26">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="JtwdVqg88i.Q" id="j0kXErIfYLrjwPMrDjcV-32">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;overflow=block;blockSpacing=1;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=1.002;exitPerimeter=0;entryX=0.5;entryY=-0.008;entryPerimeter=0;" edge="1" parent="1" source="j0kXErIfYLrjwPMrDjcV-21" target="j0kXErIfYLrjwPMrDjcV-29">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="FLORES 1" lucidchartObjectId="Jtwd~oacY.Pb" id="j0kXErIfYLrjwPMrDjcV-33">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13.3;fontColor=#3a414a;spacing=9;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#6db1ff;strokeWidth=0.8;" vertex="1" parent="1">
+            <mxGeometry x="940" y="-1910" width="255" height="25" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="UŽIVATELÉ ERP" lucidchartObjectId="0tvdic0jbc52" id="j0kXErIfYLrjwPMrDjcV-34">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffe342;strokeWidth=0.8;" vertex="1" parent="1">
+            <mxGeometry x="885" y="-590" width="1425" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#3a414a;&quot;&gt;JAKUB GONGOL - JGO&#xa;&lt;/span&gt;&lt;span style=&quot;font-size:11.7px;color:#3a414a;&quot;&gt;&lt;span style=&quot;font-size:11.7px;color:#3a414a;&quot;&gt;TPV a Příjem a Výdej CNC&#xa;&#xa;&lt;/span&gt;&lt;span style=&quot;font-size:11.7px;color:#3a414a;text-decoration: underline;&quot;&gt;Přístup&lt;/span&gt;&lt;span style=&quot;font-size:11.7px;color:#3a414a;&quot;&gt;&#xa;&#xa;Výroba&#xa;Skladové Hospodářství - bez PNEU ZBOŽÍ&#xa;Adresář&#xa;Administrace &#xa;&#xa;&lt;/span&gt;&lt;span style=&quot;font-size:11.7px;color:#3a414a;text-decoration: underline;&quot;&gt;Přístup odepřen&lt;/span&gt;&lt;span style=&quot;font-size:11.7px;color:#3a414a;&quot;&gt;&#xa;&lt;/span&gt;&lt;span style=&quot;font-size:11.7px;color:#3a414a;font-weight: bold;&quot;&gt;&#xa;Banka&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="0tvdgqxYE7Ar" id="j0kXErIfYLrjwPMrDjcV-35">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=3.8;strokeColor=#cc4e00;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#fcfcca;strokeWidth=0.8;" vertex="1" parent="1">
+            <mxGeometry x="1170" y="-520" width="255" height="280" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#3a414a;&quot;&gt;PETRA ZEIDLAROVÁ - PZE&#xa;&lt;/span&gt;&lt;span style=&quot;font-size:11.7px;color:#3a414a;&quot;&gt;&lt;span style=&quot;font-size:11.7px;color:#3a414a;&quot;&gt;Fakturace a Administrativa&#xa;&#xa;&lt;/span&gt;&lt;span style=&quot;font-size:11.7px;color:#3a414a;text-decoration: underline;&quot;&gt;Přístup&#xa;&lt;/span&gt;&#xa;Banka&#xa;Výroba&#xa;Skladové Hospodářství&#xa;Adresář&#xa;Administrace&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="0tvdXOrxxyYM" id="j0kXErIfYLrjwPMrDjcV-36">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#fcfcca;strokeWidth=0.8;" vertex="1" parent="1">
+            <mxGeometry x="885" y="-520" width="255" height="280" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#3a414a;&quot;&gt;MICHAL KONIUCH - MKO&#xa;&lt;/span&gt;&lt;span style=&quot;font-size:11.7px;color:#3a414a;&quot;&gt;&lt;span style=&quot;font-size:11.7px;color:#3a414a;&quot;&gt;TPV a Příjem a Výdej CNC&#xa;&#xa;&lt;/span&gt;&lt;span style=&quot;font-size:11.7px;color:#3a414a;text-decoration: underline;&quot;&gt;Přístup&lt;/span&gt;&lt;span style=&quot;font-size:11.7px;color:#3a414a;&quot;&gt;&#xa;&#xa;Výroba&#xa;Skladové Hospodářství - pouze CNC&#xa;&#xa;&#xa;&lt;/span&gt;&lt;span style=&quot;font-size:11.7px;color:#3a414a;text-decoration: underline;&quot;&gt;Přístup odepřen&#xa;&lt;/span&gt;&lt;span style=&quot;font-size:11.7px;color:#3a414a;&quot;&gt;&#xa;&lt;/span&gt;&lt;span style=&quot;font-size:11.7px;color:#3a414a;font-weight: bold;&quot;&gt;Adresář&lt;/span&gt;&lt;span style=&quot;font-size:11.7px;color:#3a414a;&quot;&gt;&#xa;&lt;/span&gt;&lt;span style=&quot;font-size:11.7px;color:#3a414a;font-weight: bold;&quot;&gt;Banka&#xa;Administrace &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="0tvdGA8Oxi0t" id="j0kXErIfYLrjwPMrDjcV-37">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#fcfcca;strokeWidth=0.8;" vertex="1" parent="1">
+            <mxGeometry x="1455" y="-520" width="285" height="280" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#3a414a;&quot;&gt;IRENA PONČOVÁ - IPO &#xa;&lt;/span&gt;&lt;span style=&quot;font-size:11.7px;color:#3a414a;&quot;&gt;&lt;span style=&quot;font-size:11.7px;color:#3a414a;&quot;&gt;Fakturace a Administrativa&#xa;&#xa;&lt;/span&gt;&lt;span style=&quot;font-size:11.7px;color:#3a414a;text-decoration: underline;&quot;&gt;Přístup&#xa;&lt;/span&gt;&#xa;Banka&#xa;Výroba&#xa;Skladové Hospodářství&#xa;Adresář&#xa;Administrace&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="GuvdEoKwZxQW" id="j0kXErIfYLrjwPMrDjcV-38">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#fcfcca;strokeWidth=0.8;" vertex="1" parent="1">
+            <mxGeometry x="1770" y="-520" width="255" height="280" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;font style=&quot;font-size: 18px;&quot;&gt;VLADKA PEKAROVÁ&lt;/font&gt;&lt;br&gt;Mzdy a Účetnictví&lt;br&gt;&lt;br&gt;&lt;u&gt;Přístup&lt;/u&gt;&lt;br&gt;&lt;br&gt;Mzdy&lt;br&gt;Učetnictví" lucidchartObjectId="7uvdB4ZOYfPL" id="j0kXErIfYLrjwPMrDjcV-39">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#fcfcca;strokeWidth=0.8;" vertex="1" parent="1">
+            <mxGeometry x="2068" y="-520" width="255" height="280" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="DOKUMENTY" lucidchartObjectId=".pvdK7gstuzt" id="j0kXErIfYLrjwPMrDjcV-40">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;" vertex="1" parent="1">
+            <mxGeometry x="71" y="-1145" width="135" height="105" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="NC PROGRAMY" lucidchartObjectId="zqvdhKrwIuVM" id="j0kXErIfYLrjwPMrDjcV-41">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;" vertex="1" parent="1">
+            <mxGeometry x="281" y="-1100" width="210" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="VÝKRESY" lucidchartObjectId="3qvdHYi4aWDL" id="j0kXErIfYLrjwPMrDjcV-42">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;" vertex="1" parent="1">
+            <mxGeometry x="281" y="-1160" width="210" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="qrvd7glw8jFk" id="j0kXErIfYLrjwPMrDjcV-43">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.003;exitY=0.5;exitPerimeter=0;entryX=-0.002;entryY=0.5;entryPerimeter=0;" edge="1" parent="1" source="j0kXErIfYLrjwPMrDjcV-40" target="j0kXErIfYLrjwPMrDjcV-42">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="ArvdrgU07RkV" id="j0kXErIfYLrjwPMrDjcV-44">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.003;exitY=0.5;exitPerimeter=0;entryX=-0.002;entryY=0.5;entryPerimeter=0;" edge="1" parent="1" source="j0kXErIfYLrjwPMrDjcV-40" target="j0kXErIfYLrjwPMrDjcV-41">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="SPECIFIKACE A PŘEDPISY" lucidchartObjectId="esvdyNWe1Ojt" id="j0kXErIfYLrjwPMrDjcV-45">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;" vertex="1" parent="1">
+            <mxGeometry x="281" y="-1040" width="210" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="EsvdI7-9Z9oP" id="j0kXErIfYLrjwPMrDjcV-46">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.003;exitY=0.5;exitPerimeter=0;entryX=-0.002;entryY=0.5;entryPerimeter=0;" edge="1" parent="1" source="j0kXErIfYLrjwPMrDjcV-40" target="j0kXErIfYLrjwPMrDjcV-45">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="SKLADOVÉ KARTY" lucidchartObjectId="ptvdZgwcykU5" id="j0kXErIfYLrjwPMrDjcV-47">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;" vertex="1" parent="1">
+            <mxGeometry x="-40" y="-891" width="135" height="105" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="NC PROGRAMY" lucidchartObjectId="ptvds19vsaM0" id="j0kXErIfYLrjwPMrDjcV-48">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;" vertex="1" parent="1">
+            <mxGeometry x="296" y="-831" width="210" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="VÝKRESY" lucidchartObjectId="ptvd4AHajetX" id="j0kXErIfYLrjwPMrDjcV-49">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;" vertex="1" parent="1">
+            <mxGeometry x="296" y="-905" width="210" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="ptvd50mA74CM" id="j0kXErIfYLrjwPMrDjcV-50">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.003;exitY=0.5;exitPerimeter=0;entryX=-0.002;entryY=0.5;entryPerimeter=0;" edge="1" parent="1" source="j0kXErIfYLrjwPMrDjcV-47" target="j0kXErIfYLrjwPMrDjcV-49">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="ptvdbCIzBHQ6" id="j0kXErIfYLrjwPMrDjcV-51">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.003;exitY=0.5;exitPerimeter=0;entryX=-0.002;entryY=0.5;entryPerimeter=0;" edge="1" parent="1" source="j0kXErIfYLrjwPMrDjcV-47" target="j0kXErIfYLrjwPMrDjcV-48">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="SPECIFIKACE A PŘEDPISY" lucidchartObjectId="ptvdzCFnCwEI" id="j0kXErIfYLrjwPMrDjcV-52">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;" vertex="1" parent="1">
+            <mxGeometry x="296" y="-761" width="210" height="45" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="ptvdQdrww7SG" id="j0kXErIfYLrjwPMrDjcV-53">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.003;exitY=0.5;exitPerimeter=0;entryX=-0.002;entryY=0.5;entryPerimeter=0;" edge="1" parent="1" source="j0kXErIfYLrjwPMrDjcV-47" target="j0kXErIfYLrjwPMrDjcV-52">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="ONLINE SCHVALOVÁNÍ" lucidchartObjectId="oxvdXW~Xfd3G" id="j0kXErIfYLrjwPMrDjcV-54">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=3.8;strokeColor=#3a414a;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=0.8;" vertex="1" parent="1">
+            <mxGeometry x="-19" y="-635" width="195" height="120" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="j0kXErIfYLrjwPMrDjcV-57" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;SKLAD MTZ&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#ff3333&quot;&gt;ADMINISTRATIVNÍ BUDOVA 1 p&lt;/font&gt;&lt;br&gt;&lt;br&gt;ZBOŽÍ PNEU&lt;br&gt;&lt;br&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;PŘÍJEM NAKOUPENÉHO ZBOŽÍ&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;EXPEDICE ZBOŽÍ ZÁSILKOVOU SLUŽBOU&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;PŘEVOD ZBOŽÍ DO AUT&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;NAVRÁCENÍ ZBOŽÍ Z AUT&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="960" y="-1160" width="240" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="j0kXErIfYLrjwPMrDjcV-58" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;SKLAD CNC NÁSTROJŮ&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;&quot;&gt;TOOLBOX&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;font color=&quot;#ff3333&quot;&gt;VÝROBNÍ HALA 1 p&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;&quot;&gt;VRTÁKY, FRÉZY, PLÁTKY&lt;br&gt;&lt;br&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;&quot;&gt;PŘÍJEM NAKOUPENÝCH PLÁTKŮ A NÁSTROJŮ.&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;VÝDEJ SPOTŘEBNÍCH TYPŮ NÁSTROJŮ NA VVÝROBNÍ PŘÍKAZY&lt;/li&gt;&lt;/ol&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="-1160" width="240" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="j0kXErIfYLrjwPMrDjcV-59" value="SKLADY" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="960" y="-1320" width="1320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j0kXErIfYLrjwPMrDjcV-61" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;FLORES 1&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="960" y="-1240" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="j0kXErIfYLrjwPMrDjcV-66" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;FLORES 2 potom API (u CNC nástrojů)&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="-1240" width="520" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="j0kXErIfYLrjwPMrDjcV-67" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;SKLAD SUROVÉHO ŽELEZA, ZINKU&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;font color=&quot;#ff3333&quot;&gt;VÝROBNÍ HALA&lt;/font&gt;&lt;br&gt;&lt;br&gt;VRTÁKY, FRÉZY, PLÁTKY&lt;br&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;br&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left; font-size: 13px;&quot;&gt;Příjem Surového Materiálu&lt;/li&gt;&lt;li style=&quot;text-align: left; font-size: 13px;&quot;&gt;Příjem Zinku&lt;/li&gt;&lt;/ol&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="-1160" width="240" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="j0kXErIfYLrjwPMrDjcV-70" value="&lt;h1&gt;toolbox&lt;/h1&gt;&lt;p&gt;Zde se bude jednat o tzv. TOOLBOX, kde budou uskladněny jak nespotřební nástroje (frézy, vrtací tělesa atd...), které se na jednotlivé výrobní příkazy&amp;nbsp;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="-880" width="240" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="j0kXErIfYLrjwPMrDjcV-71" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;SKLAD VYROBENÉHO ZÁVAŽÍ&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="-1160" width="240" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="j0kXErIfYLrjwPMrDjcV-72" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;FLORES 3&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="-1240" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="j0kXErIfYLrjwPMrDjcV-73" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;SKLAD VYROBENÉHO ZÁVAŽÍ&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="2083" y="-1160" width="240" height="280" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
