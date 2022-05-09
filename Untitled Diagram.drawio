@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-09T21:38:29.926Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="cQjFGgAAWKMLSFkQa1rW" version="18.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-09T21:54:40.439Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="Ce5aiJ2WWGRqACampLun" version="18.0.2" type="github">
   <diagram id="CgBZZqJk36iDIYYSCeY7" name="Page-1">
-    <mxGraphModel dx="2651" dy="3383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2459" dy="3273" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -80,7 +80,7 @@
         </UserObject>
         <UserObject label="UŽIVATELÉ ERP" lucidchartObjectId="0tvdic0jbc52" id="j0kXErIfYLrjwPMrDjcV-34">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontColor=#3a414a;spacing=9;strokeColor=#3a414a;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#ffe342;strokeWidth=0.8;" vertex="1" parent="1">
-            <mxGeometry x="885" y="-590" width="1425" height="45" as="geometry" />
+            <mxGeometry x="885" y="-580" width="1425" height="45" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div style=&quot;display: flex; justify-content: center; text-align: center; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;color:#3a414a;&quot;&gt;JAKUB GONGOL - JGO&#xa;&lt;/span&gt;&lt;span style=&quot;font-size:11.7px;color:#3a414a;&quot;&gt;&lt;span style=&quot;font-size:11.7px;color:#3a414a;&quot;&gt;TPV a Příjem a Výdej CNC&#xa;&#xa;&lt;/span&gt;&lt;span style=&quot;font-size:11.7px;color:#3a414a;text-decoration: underline;&quot;&gt;Přístup&lt;/span&gt;&lt;span style=&quot;font-size:11.7px;color:#3a414a;&quot;&gt;&#xa;&#xa;Výroba&#xa;Skladové Hospodářství - bez PNEU ZBOŽÍ&#xa;Adresář&#xa;Administrace &#xa;&#xa;&lt;/span&gt;&lt;span style=&quot;font-size:11.7px;color:#3a414a;text-decoration: underline;&quot;&gt;Přístup odepřen&lt;/span&gt;&lt;span style=&quot;font-size:11.7px;color:#3a414a;&quot;&gt;&#xa;&lt;/span&gt;&lt;span style=&quot;font-size:11.7px;color:#3a414a;font-weight: bold;&quot;&gt;&#xa;Banka&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" lucidchartObjectId="0tvdgqxYE7Ar" id="j0kXErIfYLrjwPMrDjcV-35">
@@ -195,14 +195,14 @@
             <mxGeometry x="-19" y="-635" width="195" height="120" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="j0kXErIfYLrjwPMrDjcV-57" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;SKLAD MTZ&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#ff3333&quot;&gt;ADMINISTRATIVNÍ BUDOVA 1 p&lt;/font&gt;&lt;br&gt;&lt;br&gt;ZBOŽÍ PNEU&lt;br&gt;&lt;br&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;PŘÍJEM NAKOUPENÉHO ZBOŽÍ&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;EXPEDICE ZBOŽÍ ZÁSILKOVOU SLUŽBOU&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;PŘEVOD ZBOŽÍ DO AUT&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;NAVRÁCENÍ ZBOŽÍ Z AUT&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="j0kXErIfYLrjwPMrDjcV-57" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;1. SKLAD MTZ&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#ff3333&quot;&gt;ADMINISTRATIVNÍ BUDOVA 1 p&lt;/font&gt;&lt;br&gt;&lt;br&gt;ZBOŽÍ PNEU&lt;br&gt;&lt;br&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;PŘÍJEM NAKOUPENÉHO ZBOŽÍ&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;EXPEDICE ZBOŽÍ ZÁSILKOVOU SLUŽBOU&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;PŘEVOD ZBOŽÍ DO AUT&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;NAVRÁCENÍ ZBOŽÍ Z AUT&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="960" y="-1160" width="240" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="j0kXErIfYLrjwPMrDjcV-58" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;SKLAD CNC NÁSTROJŮ&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;&quot;&gt;TOOLBOX&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;font color=&quot;#ff3333&quot;&gt;VÝROBNÍ HALA 1 p&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;&quot;&gt;VRTÁKY, FRÉZY, PLÁTKY&lt;br&gt;&lt;br&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;&quot;&gt;PŘÍJEM NAKOUPENÝCH PLÁTKŮ A NÁSTROJŮ.&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;VÝDEJ SPOTŘEBNÍCH TYPŮ NÁSTROJŮ NA VVÝROBNÍ PŘÍKAZY&lt;/li&gt;&lt;/ol&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="j0kXErIfYLrjwPMrDjcV-58" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;10. SKLAD CNC NÁSTROJŮ&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;&quot;&gt;TOOLBOX&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;font color=&quot;#ff3333&quot;&gt;VÝROBNÍ HALA 1 p&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;&quot;&gt;VRTÁKY, FRÉZY, PLÁTKY&lt;br&gt;&lt;br&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;&quot;&gt;PŘÍJEM NAKOUPENÝCH PLÁTKŮ A NÁSTROJŮ.&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;VÝDEJ SPOTŘEBNÍCH TYPŮ NÁSTROJŮ NA VÝROBNÍ PŘÍKAZY&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;ODPIS zničených nástrojů&lt;/li&gt;&lt;/ol&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1240" y="-1160" width="240" height="280" as="geometry" />
         </mxCell>
         <mxCell id="j0kXErIfYLrjwPMrDjcV-59" value="SKLADY" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="960" y="-1320" width="1320" height="60" as="geometry" />
+          <mxGeometry x="955.5" y="-1320" width="1360" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j0kXErIfYLrjwPMrDjcV-61" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;FLORES 1&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="960" y="-1240" width="240" height="40" as="geometry" />
@@ -210,20 +210,47 @@
         <mxCell id="j0kXErIfYLrjwPMrDjcV-66" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;FLORES 2 potom API (u CNC nástrojů)&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1240" y="-1240" width="520" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="j0kXErIfYLrjwPMrDjcV-67" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;SKLAD SUROVÉHO ŽELEZA, ZINKU&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;font color=&quot;#ff3333&quot;&gt;VÝROBNÍ HALA&lt;/font&gt;&lt;br&gt;&lt;br&gt;VRTÁKY, FRÉZY, PLÁTKY&lt;br&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;br&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left; font-size: 13px;&quot;&gt;Příjem Surového Materiálu&lt;/li&gt;&lt;li style=&quot;text-align: left; font-size: 13px;&quot;&gt;Příjem Zinku&lt;/li&gt;&lt;/ol&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="j0kXErIfYLrjwPMrDjcV-67" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;11. SKLAD SUROVÉHO ŽELEZA, ZINKU&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;font color=&quot;#ff3333&quot;&gt;VÝROBNÍ HALA 1 p&lt;/font&gt;&lt;br&gt;&lt;br&gt;VRTÁKY, FRÉZY, PLÁTKY&lt;br&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;br&gt;&lt;ol&gt;&lt;li style=&quot;text-align: left; font-size: 13px;&quot;&gt;Příjem Surového Materiálu CNC&lt;/li&gt;&lt;li style=&quot;text-align: left; font-size: 13px;&quot;&gt;Příjem Surového materiálu stroje&lt;/li&gt;&lt;li style=&quot;text-align: left; font-size: 13px;&quot;&gt;Příjem Zinku&lt;/li&gt;&lt;/ol&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1520" y="-1160" width="240" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="j0kXErIfYLrjwPMrDjcV-70" value="&lt;h1&gt;toolbox&lt;/h1&gt;&lt;p&gt;Zde se bude jednat o tzv. TOOLBOX, kde budou uskladněny jak nespotřební nástroje (frézy, vrtací tělesa atd...), které se na jednotlivé výrobní příkazy&amp;nbsp;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="1250" y="-880" width="240" height="200" as="geometry" />
+        <mxCell id="j0kXErIfYLrjwPMrDjcV-70" value="&lt;h1&gt;toolbox&lt;/h1&gt;&lt;p&gt;Zde se bude jednat o tzv. TOOLBOX, kde budou uskladněny jak nespotřební nástroje (frézy, vrtací tělesa atd...), které se budou naskladnovat a při zničení odepisovat.&lt;/p&gt;&lt;p&gt;Spotřebnní (plátky, vrtací korunky atd..) se budou odepisovat na jednotlivé výrobní příkazy - u každého výrobního příkazu se bude sledovat, kolik na něj bylo odepsáno plátků&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="1241" y="-870" width="240" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="j0kXErIfYLrjwPMrDjcV-71" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;SKLAD VYROBENÉHO ZÁVAŽÍ&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="j0kXErIfYLrjwPMrDjcV-71" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;12. SKLAD VYROBENÉHO ZÁVAŽÍ&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;font color=&quot;#ff3333&quot;&gt;VÝROBNÍ HALA 2 p&lt;/font&gt;&lt;br&gt;&lt;br&gt;Vyrobené zinkové závaží ve zjednodušeném režimu (bude se dít pouze naskladnění vyrobeného)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1800" y="-1160" width="240" height="280" as="geometry" />
         </mxCell>
         <mxCell id="j0kXErIfYLrjwPMrDjcV-72" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;FLORES 3&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1800" y="-1240" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="j0kXErIfYLrjwPMrDjcV-73" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;SKLAD VYROBENÉHO ZÁVAŽÍ&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="2083" y="-1160" width="240" height="280" as="geometry" />
+        <mxCell id="j0kXErIfYLrjwPMrDjcV-74" value="&lt;font color=&quot;#000000&quot;&gt;2. AUTO RICHARD&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="960" y="-860" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j0kXErIfYLrjwPMrDjcV-75" value="&lt;font color=&quot;#000000&quot;&gt;3. AUTO PRAHA&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="960" y="-823.5" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j0kXErIfYLrjwPMrDjcV-77" value="&lt;font color=&quot;#000000&quot;&gt;4. AUTO ZLÍN&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="960" y="-786" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j0kXErIfYLrjwPMrDjcV-78" value="&lt;font color=&quot;#000000&quot;&gt;5. AUTO HRADEC&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="960" y="-746" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j0kXErIfYLrjwPMrDjcV-80" value="&lt;font color=&quot;#000000&quot;&gt;6. AUTO TŘEBÍČ&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="960" y="-710" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j0kXErIfYLrjwPMrDjcV-82" value="" style="endArrow=none;html=1;rounded=0;fontSize=13;fontColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="940" y="-1160" as="sourcePoint" />
+            <mxPoint x="940" y="-650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j0kXErIfYLrjwPMrDjcV-83" value="" style="endArrow=none;html=1;rounded=0;fontSize=13;fontColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1220" y="-1159.9999999999998" as="sourcePoint" />
+            <mxPoint x="1220" y="-650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j0kXErIfYLrjwPMrDjcV-84" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;13. SKLAD STROJE&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;font color=&quot;#ff3333&quot;&gt;ADMINISTRATIVNÍ BUDOVA 1 p&lt;/font&gt;&lt;br&gt;&lt;br&gt;PLOŠINY, MYČKY, HUSTIČKY PNEU, KLECE ATD..." style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="2075.5" y="-1160" width="240" height="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
